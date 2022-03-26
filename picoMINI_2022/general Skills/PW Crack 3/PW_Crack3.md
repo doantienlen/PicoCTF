@@ -5,7 +5,7 @@ Download the password checker https://artifacts.picoctf.net/c/27/level3.py  and 
 
 There are 7 potential passwords with 1 being correct. You can find these by examining the password checker script.
 ## Solution 
-After downloading, i run it by the terminal, but it ask password. 
+After downloading, i run it by the terminal, but it asks for password. 
 
 I open it with sublime text. i see this list
 
