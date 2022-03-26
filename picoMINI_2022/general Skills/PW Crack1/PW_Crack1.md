@@ -3,7 +3,7 @@
 Can you crack the password to get the flag?
 Download the password checker https://artifacts.picoctf.net/c/53/level1.py and you'll need the encrypted https://artifacts.picoctf.net/c/53/level1.flag.txt.enc in the same directory too. 
 ## Solution 
-After downloading, i run this code by the terminal, but it ask the password. 
+After downloading, i run this code by the terminal, but it asks for password. 
 
 Then i open it by the Vim.
 
