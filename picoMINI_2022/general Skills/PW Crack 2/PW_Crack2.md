@@ -4,7 +4,7 @@ Can you crack the password to get the flag?
 
 Download the password checker https://artifacts.picoctf.net/c/16/level2.py and you'll need the encrypted https://artifacts.picoctf.net/c/16/level2.flag.txt.enc in the same directory too. 
 ## Solution
-After downloading, i run it on the terminal, but it ask the password. 
+After downloading, i run it on the terminal, but it asks for password. 
 
 I opend it by Vim and fixed it like this: 
 ```python 
